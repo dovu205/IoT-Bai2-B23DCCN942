@@ -1,0 +1,17 @@
+# pip freeze tu venv (collector)
+certifi==2026.7.22
+influxdb-client==1.50.0
+paho-mqtt==2.1.0
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+reactivex==4.1.0
+six==1.17.0
+typing-extensions==4.13.2
+urllib3==2.2.3
+# Them cho preprocessing + dashboard
+streamlit==1.40.2
+plotly==5.24.1
+pyarrow>=14
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
